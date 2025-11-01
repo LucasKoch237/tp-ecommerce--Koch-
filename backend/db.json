@@ -1,0 +1,228 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta adidas Argentina Entrenamiento 2024 Hombre",
+      "description": "El suave tejido de jersey de algodón liviano te envuelve en comodidad.",
+      "price": 29999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw0c836ce9/products/ADIY5490/ADIY5490-1.JPG",
+      "category": "Ropa"
+    },
+    {
+      "id": 2,
+      "name": "Short Boca Juniors adidas Tercer Uniforme 25/26 Hombre ",
+      "description": "Short corto y cómodo con tejido de absorción AEROREADY y el forro interno de malla te ofrecen comodidad en todo momento.",
+      "price": 32499,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw08e79753/products/ADIV8213/ADIV8213-1.JPG",
+      "category": "Ropa"
+    },
+    {
+      "id": 3,
+      "name": "Botines Fútbol Nike Phantom GX 2 Pro",
+      "description": "Diseñados para jugadores que buscan llevar sus habilidades al siguiente nivel. Cuentan con una parte superior elástica de Flyknit que ofrece un ajuste ceñido y cómodo alrededor del tobillo.",
+      "price": 249999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwaaf86a5d/products/NIFJ2563-003/NIFJ2563-003-1.JPG",
+      "category": "Calzado"
+    },
+    {
+      "id": 4,
+      "name": "Mochila Puma Phase",
+      "description": "Mochila con un compartimento principal con cremallera bidireccional, un bolsillo frontal y un bolsillo lateral.",
+      "price": 39999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwb97f7b1d/products/PU091164-01/PU091164-01-1.JPG",
+      "category": "Accesorios"
+    },
+    {
+      "id": 5,
+      "name": "Medias Nike X3 Everyday",
+      "description": "Pack de 3 pares de medias para mejorar recuperación muscular fortaleciendo la circulacion sanguinea.",
+      "price": 19999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw412b3c4e/products/NISX7676-100/NISX7676-100-1.JPG",
+      "category": "Accesorios"
+    },
+    {
+      "id": 6,
+      "name": "Campera Running adidas Adizero",
+      "description": "Cortaviento de ligero tejido ripstop con paneles de ventilación en las sisas proporciona versatilidad para los calentamientos y estiramientos.",
+      "price": 159999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwd3af26a4/products/ADHZ3694/ADHZ3694-1.JPG",
+      "category": "Ropa"
+    },
+    {
+      "id": 7,
+      "name": "Guantes Fútbol adidas Predator",
+      "description": "Guantes diseñados para arqueros que buscan máximo control y agarre. Su palma con látex de alto rendimiento asegura excelente sujeción en cualquier condición climática,",
+      "price": 139999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwaf5c9f03/products/ADJZ5787/ADJZ5787-2.JPG",
+      "category": "Accesorios"
+    },
+    {
+      "id": 8,
+      "name": "Botella Nike Renew Recharge 700ml",
+      "description": "Ideal para quienes buscan estilo y funcionalidad. Opción sostenible para mantenerte hidratado. Su diseño ligero y ergonómico permite un fácil transporte,",
+      "price": 46299,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw07f560b0/products/NIDX7028-072/NIDX7028-072-1.JPG",
+      "category": "Accesorios"
+    },
+    {
+      "id": 9,
+      "name": "Vincha Nike Printed X3",
+      "description": "Da lo mejor de vos en los entrenamientos con las Vinchas Nike Printed ideales por su material suave y elástico, las convierten en la mejor opción para que estés enfocado en cumplir la meta.",
+      "price": 38259,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw55668ebf/products/NI_AC9728-495/NI_AC9728-495-1.JPG",
+      "category": "Equipamiento"
+    },
+    {
+      "id": 10,
+      "name": "Short Entrenamiento adidas Power 2in1",
+      "description": "La tela tejida elástica permite un rango completo de movimiento, y las mallas incorporadas ofrecen cobertura adicional. CLIMACOOL absorbe y dispersa el sudor para un rendimiento fresco, seco y sin distracciones.",
+      "price": 98999,
+      "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw37b0c7d3/products/ADJI8203/ADJI8203-1.JPG",
+      "category": "Ropa"
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "id": 1,
+          "name": "Camiseta adidas Argentina Entrenamiento 2024 Hombre",
+          "description": "El suave tejido de jersey de algodón liviano te envuelve en comodidad",
+          "price": 29999,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw0c836ce9/products/ADIY5490/ADIY5490-1.JPG",
+          "category": "Ropa",
+          "qty": 2
+        },
+        {
+          "id": 3,
+          "name": "Botines Fútbol Nike Phantom GX 2 Pro",
+          "description": "Diseñados para jugadores que buscan llevar sus habilidades al siguiente nivel. Cuentan con una parte superior elástica de Flyknit que ofrece un ajuste ceñido y cómodo alrededor del tobillo.",
+          "price": 249999,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwaaf86a5d/products/NIFJ2563-003/NIFJ2563-003-1.JPG",
+          "category": "Calzado",
+          "qty": 1
+        }
+      ],
+      "total": 309997,
+      "customer": {
+        "name": "Cliente Demo",
+        "email": "demo@example.com",
+        "phone": "0000"
+      },
+      "createdAt": "2025-10-31T21:45:04.475Z",
+      "id": 1
+    },
+    {
+      "items": [],
+      "total": 0,
+      "customer": {
+        "name": "Cliente Demo",
+        "email": "demo@example.com",
+        "phone": "0000"
+      },
+      "createdAt": "2025-10-31T21:45:09.867Z",
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "id": 9,
+          "name": "Vincha Nike Printed X3",
+          "description": "Da lo mejor de vos en los entrenamientos con las Vinchas Nike Printed ideales por su material suave y elástico, las convierten en la mejor opción para que estés enfocado en cumplir la meta.",
+          "price": 38259,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw55668ebf/products/NI_AC9728-495/NI_AC9728-495-1.JPG",
+          "category": "Equipamiento",
+          "qty": 1
+        },
+        {
+          "id": 8,
+          "name": "Botella Nike Renew Recharge 700ml",
+          "description": "Ideal para quienes buscan estilo y funcionalidad. Opción sostenible para mantenerte hidratado. Su diseño ligero y ergonómico permite un fácil transporte,",
+          "price": 46299,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw07f560b0/products/NIDX7028-072/NIDX7028-072-1.JPG",
+          "category": "Accesorios",
+          "qty": 1
+        }
+      ],
+      "total": 84558,
+      "customer": {
+        "name": "Cliente Demo",
+        "email": "demo@example.com",
+        "phone": "0000"
+      },
+      "createdAt": "2025-10-31T22:01:30.169Z",
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "id": 6,
+          "name": "Campera Running adidas Adizero",
+          "description": "Cortaviento de ligero tejido ripstop con paneles de ventilación en las sisas proporciona versatilidad para los calentamientos y estiramientos.",
+          "price": 159999,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwd3af26a4/products/ADHZ3694/ADHZ3694-1.JPG",
+          "category": "Ropa",
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "name": "Botines Fútbol Nike Phantom GX 2 Pro",
+          "description": "Diseñados para jugadores que buscan llevar sus habilidades al siguiente nivel. Cuentan con una parte superior elástica de Flyknit que ofrece un ajuste ceñido y cómodo alrededor del tobillo.",
+          "price": 249999,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwaaf86a5d/products/NIFJ2563-003/NIFJ2563-003-1.JPG",
+          "category": "Calzado",
+          "qty": 1
+        }
+      ],
+      "total": 409998,
+      "customer": {
+        "name": "Cliente Demo",
+        "email": "demo@example.com",
+        "phone": "0000"
+      },
+      "createdAt": "2025-10-31T23:39:48.977Z",
+      "id": 4
+    },
+    {
+      "items": [],
+      "total": 0,
+      "customer": {
+        "name": "Cliente Demo",
+        "email": "demo@example.com",
+        "phone": "0000"
+      },
+      "createdAt": "2025-10-31T23:39:52.665Z",
+      "id": 5
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Short Boca Juniors adidas Tercer Uniforme 25/26 Hombre ",
+          "description": "Short corto y cómodo con tejido de absorción AEROREADY y el forro interno de malla te ofrecen comodidad en todo momento.",
+          "price": 32499,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw08e79753/products/ADIV8213/ADIV8213-1.JPG",
+          "category": "Ropa",
+          "qty": 2
+        },
+        {
+          "id": 3,
+          "name": "Botines Fútbol Nike Phantom GX 2 Pro",
+          "description": "Diseñados para jugadores que buscan llevar sus habilidades al siguiente nivel. Cuentan con una parte superior elástica de Flyknit que ofrece un ajuste ceñido y cómodo alrededor del tobillo.",
+          "price": 249999,
+          "image": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwaaf86a5d/products/NIFJ2563-003/NIFJ2563-003-1.JPG",
+          "category": "Calzado",
+          "qty": 1
+        }
+      ],
+      "total": 314997,
+      "customer": {
+        "name": "Cliente Demo",
+        "email": "demo@example.com",
+        "phone": "0000"
+      },
+      "createdAt": "2025-10-31T23:40:01.801Z",
+      "id": 6
+    }
+  ]
+}
